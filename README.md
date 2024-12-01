@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @getarbind
+- 👋 Hi, I’m Arbind
 - 👀 I’m interested in Java, Python, AWS, ML, AI
 - 🌱 I’m currently learning aws
 - 💞️ I’m looking to collaborate on ...
